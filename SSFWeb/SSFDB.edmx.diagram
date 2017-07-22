@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="14503434346f4b3281ffa7b4903e2627" Name="Diagram1">
+        <EntityTypeShape EntityType="SSFDBModel.Articles" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Cities" Width="1.5" PointX="5.25" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Couriers" Width="1.5" PointX="10.25" PointY="35.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.CSRCategories" Width="1.5" PointX="5.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.DailyQuotes" Width="1.5" PointX="11.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.DamageStockPaymentDetails" Width="1.5" PointX="20.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.DistributoresAndDealers" Width="1.5" PointX="7.5" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.DistributorInventoryMovement" Width="1.5" PointX="7.5" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.DistributorInventoryMovementDetails" Width="1.5" PointX="9.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Districts" Width="1.5" PointX="3" PointY="22.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.eBooks" Width="1.5" PointX="13.5" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.eReaderPaymentDetails" Width="1.5" PointX="15" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.eReaderSubscriptionDetails" Width="1.5" PointX="12.75" PointY="25.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.EventsAndNews" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.HomeImages" Width="1.5" PointX="13.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Inventory" Width="1.5" PointX="7.5" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryCategories" Width="1.5" PointX="5.25" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryDamageStock" Width="1.5" PointX="18" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryNew" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryRequestDetails" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryRequests" Width="1.5" PointX="15.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryReturns" Width="1.5" PointX="18" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventorySales" Width="1.5" PointX="9.75" PointY="17.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryTypes" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.MagazineDeliveryDetails" Width="1.5" PointX="12.75" PointY="29.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.MagazineReleaseDates" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.PackageDetails" Width="1.5" PointX="20" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Packages" Width="1.5" PointX="17.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.PayuInputParameters" Width="1.5" PointX="2.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.PayuOutputParameters" Width="1.5" PointX="4.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.PurchaseOrderDetails" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.PurchaseOrders" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.RequestPaymentDetails" Width="1.5" PointX="18" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.ReturnStockPaymentDetails" Width="1.5" PointX="20.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Settings" Width="1.5" PointX="9.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.ST_Months" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.States" Width="1.5" PointX="0.75" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Subscribers" Width="1.5" PointX="10.5" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.SubscriptionAmount" Width="1.5" PointX="18.75" PointY="28.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.SubscriptionDetails" Width="1.5" PointX="15.75" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.SubscriptionMode" Width="1.5" PointX="8.25" PointY="22.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.SubscriptionType" Width="1.5" PointX="13.5" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.sysdiagrams" Width="1.5" PointX="11.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TempeReaderSubscriptionDetails" Width="1.5" PointX="15.75" PointY="23.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TempShippingAddress" Width="1.5" PointX="7.5" PointY="26.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TempSubscriptionDetails" Width="1.5" PointX="17.75" PointY="33" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TempUserOrderDetails" Width="1.5" PointX="9.75" PointY="32.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TempUserOrders" Width="1.5" PointX="7.5" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.TimeZone" Width="1.5" PointX="17.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.UserComments" Width="1.5" PointX="10.5" PointY="24.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.UserOrderDetails" Width="1.5" PointX="14.75" PointY="33" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.UserOrders" Width="1.5" PointX="12.5" PointY="33" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Users" Width="1.5" PointX="5.25" PointY="26.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.UserShippingAddress" Width="1.5" PointX="14.75" PointY="36" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.VendorPayments" Width="1.5" PointX="12" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.Vendors" Width="1.5" PointX="9.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.BookWeights" Width="1.5" PointX="19.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.CourierPrices" Width="1.5" PointX="20.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.CSR" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SSFDBModel.InventoryWeights" Width="1.5" PointX="21.75" PointY="19.75" IsExpanded="true" />
+        <AssociationConnector Association="SSFDBModel.FK_Cities_Districts" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_DistributoresAndDealers_Cities" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserOrders_Couriers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_CSR_CSRCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_DamageStockPaymentDetails_InventoryDamageStock" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_InventorySales_DistributoresAndDealers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_DistributorInventoryMovementDetails_DistributorInventoryMovement" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_DistributorInventoryMovementDetails_Inventory" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Districts_States" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempShippingAddress_Districts" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Users_Districts" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_eBooks_Inventory" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_eBooks_InventoryCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_eReaderSubscriptionDetails_eBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempESubscriptionDetails_eBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_eReaderPaymentDetails_eReaderSubscriptionDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_eReaderSubscriptionDetails_Subscribers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Inventory_InventoryCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Inventory_InventoryTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_InventorySales_Inventory" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserComments_Inventory" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_InventoryCategories_InventoryTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_InventoryDamageStock_InventoryRequests" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_InventoryReturns_InventoryRequests" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_RequestPaymentDetails_InventoryRequests" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_ReturnStockPaymentDetails_InventoryReturns" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_MagazineDeliveryDetails_Subscribers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_MagazineReleaseDates_ST_Months" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_PackageDetails_Packages" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_PurchaseOrderDetails_PurchaseOrderDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_PurchaseOrderDetails_PurchaseOrders" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempShippingAddress_States" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Subscribers_SubscriptionMode" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_Subscribers_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_SubscriptionDetails_Subscribers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempESubscriptionDetails_Subscribers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempSubscriptionDetails_Subscribers" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_SubscriptionAmount_SubscriptionMode" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_SubscriptionAmount_SubscriptionType" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_SubscriptionDetails_SubscriptionType" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempSubscriptionDetails_SubscriptionType" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempESubscriptionDetails_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempShippingAddress_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempSubscriptionDetails_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempUserOrderDetails_TempUserOrders" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_TempUserOrders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserComments_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserOrderDetails_UserOrders" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserOrders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_UserShippingAddress_UserOrders" ManuallyRouted="false" />
+        <AssociationConnector Association="SSFDBModel.FK_VendorPayments_Vendors" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
